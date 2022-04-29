@@ -1,0 +1,1 @@
+Aisleriot Solitaire|[1]|sys.aisleriot.png|[1]|window.location.href='aisleriot.htm';
