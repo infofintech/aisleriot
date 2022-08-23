@@ -1,1 +1,1 @@
-Aisleriot Solitaire|[1]|sys.aisleriot.png|[1]|window.location.href='aisleriot.htm';
+title|[>]|Aisleriot Solitaire|[1]|favicon|[>]|sys.aisleriot.png|[1]|run|[>]|window.location.href='aisleriot.htm';
